@@ -1,5 +1,9 @@
 # pterodactyl-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/pterodactyl-or-just-updated-game-server-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Pterodactyl template](https://railway.com/deploy/pterodactyl-or-just-updated-game-server-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A thin wrapper around the official [Pterodactyl Panel](https://pterodactyl.io) image
 (`ghcr.io/pterodactyl/panel`, pinned to v1.15.1 by digest) that makes it deploy correctly on
 Railway. The panel itself is unmodified; everything here is a platform fix.
